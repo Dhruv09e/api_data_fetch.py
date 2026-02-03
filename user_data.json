@@ -1,0 +1,20 @@
+[
+    {
+        "full_name": "Mr Gerbrand Joosse",
+        "email": "gerbrand.joosse@example.com",
+        "gender": "male",
+        "country": "Netherlands"
+    },
+    {
+        "full_name": "Mrs Brooke Edwards",
+        "email": "brooke.edwards@example.com",
+        "gender": "female",
+        "country": "New Zealand"
+    },
+    {
+        "full_name": "Mr Mir Yashchenko",
+        "email": "mir.yashchenko@example.com",
+        "gender": "male",
+        "country": "Ukraine"
+    }
+]
